@@ -13,7 +13,7 @@ Click to view on [GitPages](https://lisatwyw.github.io/streamlit-workshop/)
 
 ## Examples
 - Private repo of [dataframe](https://phido-alpha-01.streamlit.app/)
-- [mapitnow]()
+- [mapitnow](https://apr5-demo-app1.streamlit.app/)
 - [Heat maps](https://can-ale.streamlit.app/)
 - ...
 
