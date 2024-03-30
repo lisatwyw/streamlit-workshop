@@ -1,3 +1,5 @@
+Click to view on [GitPages](https://lisatwyw.github.io/streamlit-workshop/)
+
 # Fast prototyping dashboards with ```streamlit```
 
 ## Objectives
