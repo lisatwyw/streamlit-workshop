@@ -14,6 +14,7 @@ Click to view on [GitPages](https://lisatwyw.github.io/streamlit-workshop/)
 ## Examples
 - Private repo of [dataframe](https://phido-alpha-01.streamlit.app/)
 - [mapitnow]()
+- [Heat maps](https://can-ale.streamlit.app/)
 - ...
 
 ## Resources
