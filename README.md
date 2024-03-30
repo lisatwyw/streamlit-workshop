@@ -1,4 +1,4 @@
-# ```streamlit``` workshop
+# Fast prototyping dashboards with ```streamlit```
 
 ## Objective
 
