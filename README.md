@@ -1,4 +1,4 @@
-# DSR-workshop
+# ```streamlit``` workshop
 
 ## Objective
 
