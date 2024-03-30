@@ -10,4 +10,6 @@
 - Annnoymous poll during sign-up phase
 
 
- 
+## Resources
+
+- [Emoji keys](https://allcontributors.org/docs/en/emoji-key)
