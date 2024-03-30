@@ -1,10 +1,10 @@
 # Fast prototyping dashboards with ```streamlit```
 
-## Objective
+## Objectives
 
 - All attendees will sustain self-practices of Python programming / Git after the workshop
 
-## Strategy
+## Strategies to use
 
 - Zero-entrance barrier
 - Annnoymous poll during sign-up phase
